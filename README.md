@@ -12,7 +12,9 @@ Web端：
 2、初始化：git init
 
 3.1、添加远程服务器：git remote add origin https://github.com/yourNmae/yourRepo.git
+
 3.2、直接复制一个远程仓库到本地：git clone https://github.com/yourNmae/yourRepo.git
+
 3.3、若远程仓库创建了README.md，相当于已经有过更改，则只需要拉下来：git pull https://github.com/yourNmae/yourRepo.git
 
 4、将改动添加到暂存区：git add . 或者git add ./xx.jsp
